@@ -1,0 +1,8 @@
+{
+  "name": "lime",
+  "version": "0.5.0",
+  "description": "会話をチャットの吹き出し風の HTML にして、cmux の横に開く（/lime [セッションID]）。会話が進むと自動で更新する。/lime-codex on で、同じ作業フォルダの Codex のやりとりを Claude に渡せる",
+  "author": {
+    "name": "nakamura.shuta"
+  }
+}

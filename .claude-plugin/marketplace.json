@@ -1,0 +1,13 @@
+{
+  "name": "nakamura-mods",
+  "description": "手元で作った Claude Code の mods",
+  "owner": {
+    "name": "nakamura.shuta"
+  },
+  "plugins": [
+    {
+      "name": "lime",
+      "source": "./lime"
+    }
+  ]
+}
